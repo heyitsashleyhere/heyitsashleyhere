@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🌍 Find me on the web:
-- [@ashhhleyhere](https://twitter.com/ashhhleyhere)
-- [LinkedIn](https://www.linkedin.com/in/ashley-jiang-b623a9ab/)
