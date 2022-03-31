@@ -1,4 +1,4 @@
-###👋 Hey it's Ashley here
+### 👋 Hey it's Ashley here
 
 I'm a web development student 👩🏻‍💻 who is currenlty learning the MERN stack
 
