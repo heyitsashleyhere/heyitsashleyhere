@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋  it's Ashley here!
+
+I'm a web development student who is currenlty learning the MERN stack
 
 <!--
 **heyitsashleyhere/heyitsashleyhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌍 Find me on the web:
+- [@ashhhleyhere](https://twitter.com/ashhhleyhere)
+- [LinkedIn](https://www.linkedin.com/in/ashley-jiang-b623a9ab/)
