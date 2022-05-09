@@ -1,4 +1,4 @@
-### 👋 Hey it's Ashley here
+### Hey <img src="https://raw.githubusercontent.com/heyitsashleyhere/heyitsashleyhere/master/wave.gif" width="28px"> it's Ashley here
 
 I'm a web development student 👩🏻‍💻 who is currenlty learning the MERN stack
 
