@@ -1,4 +1,4 @@
-### <h1 align="center">Hey <img src="./assests/wave.gif" width="6px"> it's Ashley here </h1>
+### <h1 align="center">Hey <img src="./assests/wave.gif" width=40> it's Ashley here </h1>
 
 <p  align="center">I'm a full-stack web developer with Industrial Design background 👩🏻‍💻 </p>
 
