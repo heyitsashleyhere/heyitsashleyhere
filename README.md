@@ -1,6 +1,6 @@
 ### <h1 align="center">Hey <img src="./assests/wave.gif" width=40> it's Ashley here </h1>
 
-<p  align="center">I'm a full-stack web developer with Industrial Design background 👩🏻‍💻 </p>
+<p  align="center">I'm a <strike>Full-stack</strike>Frontend Web Developer with Industrial Design background 👩🏻‍💻 </p>
 
 
 
