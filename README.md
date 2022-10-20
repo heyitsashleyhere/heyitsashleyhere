@@ -5,7 +5,8 @@
 
 
 - 🌍  I'm based in Leipzig, Germany
-- 🧰 Tech stack: MERN <!-- - 🌱 I’m currently trying to learn Redux -->
+- 🧰 Tech stack: MERN 
+- 🌱 I’m currently learning unit testing
 - 📫 Reach me: [Email](mailto:ashleyjiang4@gmail.com) 📧 - [Linkedin](https://www.linkedin.com/in/ashley-jiang-b623a9ab/)
 - 💬 Ask me about true crime podcasts and Kpop
 <!-- - 🔭 I’m currently working on  -->
